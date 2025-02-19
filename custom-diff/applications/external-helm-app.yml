@@ -13,7 +13,7 @@ spec:
     jsonPointers:
     - /metadata/annotations/creation
   - group: apps
-    kind: secret
+    kind: Secret
     jsonPointers:
     - /data
 
