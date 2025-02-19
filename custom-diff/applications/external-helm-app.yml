@@ -15,7 +15,7 @@ spec:
   - group: apps
     kind: secret
     jsonPointers:
-    - /data/my-password
+    - /data
 
   source:
     repoURL: https://github.com/codefresh-contrib/gitops-cert-level-2-examples.git
